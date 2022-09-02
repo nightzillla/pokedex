@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Hello, World! My name is Danny!
         </p>
         <a
           className="App-link"
@@ -21,5 +21,5 @@ function App() {
     </div>
   );
 }
-
+// Edit <code>src/App.js</code> and save to reload.
 export default App;
